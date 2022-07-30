@@ -1,1 +1,1 @@
-# kottans-frontend
+# My first project for kattans
