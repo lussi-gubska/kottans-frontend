@@ -27,17 +27,17 @@
 ## Git Basics
 
 <details><summary>Results</summary>
-<img src="./task_git_basic/screen_1.jpg" alt="Task Learn Git">
-<img src="./task_git_basic/screen_2.jpg" alt="Task Learn Git">
+<img src="./task_git_basic/screen_1.png" alt="Task Learn Git">
+<img src="./task_git_basic/screen_2.png" alt="Task Learn Git">
 </details>
 
 ## Linux CLI and HTTP
 
 <details><summary>Results</summary>
-<img src="/task_linux_cli/Quiz_1.jpg" alt="Linux Survival Quiz screenshot #1" title="Linux Survival Quiz screenshot #1">
-<img src="/task_linux_cli/Quiz_2.jpg" alt="Linux Survival Quiz screenshot #2" title="Linux Survival Quiz screenshot #2">
-<img src="/task_linux_cli/Quiz_3.jpg" alt="Linux Survival Quiz screenshot #3" title="Linux Survival Quiz screenshot #3">
-<img src="/task_linux_cli/Quiz_4.jpg" alt="Linux Survival Quiz screenshot #4" title="Linux Survival Quiz screenshot #4">
+<img src="/task_linux_cli/Quiz_1.png" alt="Linux Survival Quiz screenshot #1" title="Linux Survival Quiz screenshot #1">
+<img src="/task_linux_cli/Quiz_2.png" alt="Linux Survival Quiz screenshot #2" title="Linux Survival Quiz screenshot #2">
+<img src="/task_linux_cli/Quiz_3.png" alt="Linux Survival Quiz screenshot #3" title="Linux Survival Quiz screenshot #3">
+<img src="/task_linux_cli/Quiz_4.png" alt="Linux Survival Quiz screenshot #4" title="Linux Survival Quiz screenshot #4">
 </details>
 
 
