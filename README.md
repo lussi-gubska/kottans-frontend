@@ -5,7 +5,7 @@
 ## General
 - [X] 0. [Git Basics](#git-basics) 
 - [x] 1. [Linux CLI and Networking](#linux-cli-and-http)
-- [ ] 2. [VCS (hello gitty), GitHub and Collaboration]
+- [x] 2. [GitHub and Collaboration](#git-collaboration)
 
 ## Front-End Basic
 - [ ] 3. [Intro to HTML & CSS]
@@ -41,7 +41,11 @@
 </details>
 
 Залишу тут як шпаргалку
-[HTTP: Частина 1] (https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-[HTTP: Частина 2] (https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+[HTTP: Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+[HTTP: Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
+## Git Collaboration
+<details><summary>Results</summary>
+<img src="./task_git_collaboration/screen_3.png" alt="Task Learn Git">
 
+</details>
