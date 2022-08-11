@@ -1,4 +1,4 @@
-#### My study kottans-frontend
+###### My study kottans-frontend
 
 # Stage 0. Self-Study
 
@@ -39,5 +39,9 @@
 <img src="/task_linux_cli/Quiz_3.png" alt="Linux Survival Quiz screenshot #3" title="Linux Survival Quiz screenshot #3">
 <img src="/task_linux_cli/Quiz_4.png" alt="Linux Survival Quiz screenshot #4" title="Linux Survival Quiz screenshot #4">
 </details>
+
+Залишу тут як шпаргалку
+[HTTP: Частина 1] (https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+[HTTP: Частина 2] (https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
 
 
