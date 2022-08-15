@@ -8,7 +8,7 @@
 - [x] 2. [GitHub and Collaboration](#git-collaboration)
 
 ## Front-End Basic
-- [x] 3. [Intro to HTML & CSS](intro-to-html-and-css)
+- [x] 3. [Intro to HTML & CSS](#intro-to-html-and-css)
 - [ ] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScipt Basics
