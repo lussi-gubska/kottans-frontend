@@ -8,7 +8,7 @@
 - [x] 2. [GitHub and Collaboration](#git-collaboration)
 
 ## Front-End Basic
-- [ ] 3. [Intro to HTML & CSS]
+- [x] 3. [Intro to HTML & CSS](intro-to-html-and-css)
 - [ ] 4. Responsive Web Design
 - [ ] 5. HTML & CSS Practice
 - [ ] 6. JavaScipt Basics
@@ -23,6 +23,10 @@
 - [ ] 13. Website Perfomance Optimization 
 - [ ] 14. Friends APP - real project!
 
+Залишу тут як шпаргалку
+[HTTP: Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
+[HTTP: Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+[spec: HTML](https://html.spec.whatwg.org)
 
 ## Git Basics
 
@@ -40,12 +44,19 @@
 <img src="/task_linux_cli/Quiz_4.png" alt="Linux Survival Quiz screenshot #4" title="Linux Survival Quiz screenshot #4">
 </details>
 
-Залишу тут як шпаргалку
-[HTTP: Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
-[HTTP: Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
 
 ## Git Collaboration
 <details><summary>Results</summary>
-<img src="./task_git_collaboration/screen_3.png" alt="Task Learn Git">
+<img src="./task_git_collaboration/screen_3.png" alt="Task Git Collaboration">
 
+</details>
+
+
+## Intro to HTML and CSS
+<details><summary>Results</summary>
+<img src="/task_html_css_intro/html1.png" alt="Intro to HTML and CSS">
+<img src="/task_html_css_intro/html2.png" alt="Intro to HTML and CSS">
+<img src="/task_html_css_intro/css.png" alt="Intro to HTML and CSS">
+<img src="/task_html_css_intro/learn.png" alt="Intro to HTML and CSS">
 </details>
