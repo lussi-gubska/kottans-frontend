@@ -26,6 +26,7 @@
 Залишу тут як шпаргалку
 [HTTP: Частина 1](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177)
 [HTTP: Частина 2](https://code.tutsplus.com/uk/tutorials/http-the-protocol-every-web-developer-must-know-part-2--net-31155)
+
 [spec: HTML](https://html.spec.whatwg.org)
 
 [FLEXBOX](https://fls.guru/flexbox.html)
